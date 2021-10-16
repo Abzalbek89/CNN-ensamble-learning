@@ -1,1 +1,2 @@
-osynda menyn jyndy code bolady
+print('Abzik zver');
+print('Hello world');
